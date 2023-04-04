@@ -1,11 +1,10 @@
 // SPDX-License-Identifier: MIT
-
 pragma solidity 0.8.13;
 
 import "contracts/interfaces/IPair.sol";
 import "contracts/interfaces/IRouter.sol";
 
-contract VelodromeLibrary {
+contract BeradromeLibrary {
     IRouter internal immutable router;
 
     constructor(address _router) {
