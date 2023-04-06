@@ -6,7 +6,7 @@ import "contracts/Gauge.sol";
 import "contracts/Minter.sol";
 import "contracts/Pair.sol";
 import "contracts/Router.sol";
-import "contracts/Velo.sol";
+import "contracts/BERO.sol";
 import "contracts/VotingEscrow.sol";
 import "utils/TestStakingRewards.sol";
 import "utils/TestVotingEscrow.sol";
